@@ -2,6 +2,7 @@
 
 body {
     font-family:system-ui, -apple-system, 'Segoe UI', Roboto, Arial; 
+    color:#1d0053;
     margin:0; 
     display:flex; 
     flex-direction:column; 
@@ -16,17 +17,24 @@ header {
 
 #controls {
     display:flex;
+    flex-wrap:wrap;
     gap:8px;
     padding:10px 16px;
     background:#f3f4f6;
     align-items:center;
+    justify-content: center;
 }
 
 #controls input {
-    flex:1;
+    flex:1 50vh;
     padding:8px;
     border-radius:6px;
     border:1px solid #cbd5e1;
+}
+
+#controls button {
+  flex-shrink: 0;
+  width:48vh; white-space: nowrap;
 }
 
 #map {
