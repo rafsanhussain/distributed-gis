@@ -1,0 +1,302 @@
+[
+  {
+    "lat": 52.597399,
+    "lon": 13.29012,
+    "species": "Magnolia",
+    "note": "Tree #1 - Healthy specimen of Magnolia"
+  },
+  {
+    "lat": 52.496276,
+    "lon": 13.383832,
+    "species": "Maple",
+    "note": "Tree #2 - Healthy specimen of Maple"
+  },
+  {
+    "lat": 52.499476,
+    "lon": 13.511174,
+    "species": "Oak",
+    "note": "Tree #3 - Healthy specimen of Oak"
+  },
+  {
+    "lat": 52.469173,
+    "lon": 13.413014,
+    "species": "Hazel",
+    "note": "Tree #4 - Healthy specimen of Hazel"
+  },
+  {
+    "lat": 52.470172,
+    "lon": 13.365307,
+    "species": "Poplar",
+    "note": "Tree #5 - Healthy specimen of Poplar"
+  },
+  {
+    "lat": 52.530435,
+    "lon": 13.27303,
+    "species": "Olive",
+    "note": "Tree #6 - Healthy specimen of Olive"
+  },
+  {
+    "lat": 52.488678,
+    "lon": 13.400468,
+    "species": "Willow",
+    "note": "Tree #7 - Healthy specimen of Willow"
+  },
+  {
+    "lat": 52.576328,
+    "lon": 13.422523,
+    "species": "Elm",
+    "note": "Tree #8 - Healthy specimen of Elm"
+  },
+  {
+    "lat": 52.482826,
+    "lon": 13.367088,
+    "species": "Chestnut",
+    "note": "Tree #9 - Healthy specimen of Chestnut"
+  },
+  {
+    "lat": 52.544894,
+    "lon": 13.355282,
+    "species": "Fir",
+    "note": "Tree #10 - Healthy specimen of Fir"
+  },
+  {
+    "lat": 52.464319,
+    "lon": 13.29828,
+    "species": "Rowan",
+    "note": "Tree #11 - Healthy specimen of Rowan"
+  },
+  {
+    "lat": 52.549545,
+    "lon": 13.43322,
+    "species": "Linden",
+    "note": "Tree #12 - Healthy specimen of Linden"
+  },
+  {
+    "lat": 52.552569,
+    "lon": 13.544462,
+    "species": "Walnut",
+    "note": "Tree #13 - Healthy specimen of Walnut"
+  },
+  {
+    "lat": 52.453898,
+    "lon": 13.452411,
+    "species": "Beech",
+    "note": "Tree #14 - Healthy specimen of Beech"
+  },
+  {
+    "lat": 52.556147,
+    "lon": 13.300852,
+    "species": "Elm",
+    "note": "Tree #15 - Healthy specimen of Elm"
+  },
+  {
+    "lat": 52.52251,
+    "lon": 13.368825,
+    "species": "Rowan",
+    "note": "Tree #16 - Healthy specimen of Rowan"
+  },
+  {
+    "lat": 52.567519,
+    "lon": 13.309103,
+    "species": "Spruce",
+    "note": "Tree #17 - Healthy specimen of Spruce"
+  },
+  {
+    "lat": 52.539918,
+    "lon": 13.333005,
+    "species": "Alder",
+    "note": "Tree #18 - Healthy specimen of Alder"
+  },
+  {
+    "lat": 52.566029,
+    "lon": 13.386654,
+    "species": "Cedar",
+    "note": "Tree #19 - Healthy specimen of Cedar"
+  },
+  {
+    "lat": 52.50357,
+    "lon": 13.486871,
+    "species": "Cherry",
+    "note": "Tree #20 - Healthy specimen of Cherry"
+  },
+  {
+    "lat": 52.542535,
+    "lon": 13.302157,
+    "species": "Pine",
+    "note": "Tree #21 - Healthy specimen of Pine"
+  },
+  {
+    "lat": 52.499883,
+    "lon": 13.461464,
+    "species": "Birch",
+    "note": "Tree #22 - Healthy specimen of Birch"
+  },
+  {
+    "lat": 52.532546,
+    "lon": 13.300502,
+    "species": "Magnolia",
+    "note": "Tree #23 - Healthy specimen of Magnolia"
+  },
+  {
+    "lat": 52.472616,
+    "lon": 13.303946,
+    "species": "Alder",
+    "note": "Tree #24 - Healthy specimen of Alder"
+  },
+  {
+    "lat": 52.545459,
+    "lon": 13.437991,
+    "species": "Birch",
+    "note": "Tree #25 - Healthy specimen of Birch"
+  },
+  {
+    "lat": 52.490656,
+    "lon": 13.388664,
+    "species": "Cherry",
+    "note": "Tree #26 - Healthy specimen of Cherry"
+  },
+  {
+    "lat": 52.543644,
+    "lon": 13.440152,
+    "species": "Beech",
+    "note": "Tree #27 - Healthy specimen of Beech"
+  },
+  {
+    "lat": 52.526615,
+    "lon": 13.4312,
+    "species": "Walnut",
+    "note": "Tree #28 - Healthy specimen of Walnut"
+  },
+  {
+    "lat": 52.540103,
+    "lon": 13.39847,
+    "species": "Walnut",
+    "note": "Tree #29 - Healthy specimen of Walnut"
+  },
+  {
+    "lat": 52.540033,
+    "lon": 13.288682,
+    "species": "Cedar",
+    "note": "Tree #30 - Healthy specimen of Cedar"
+  },
+  {
+    "lat": 52.558832,
+    "lon": 13.350697,
+    "species": "Plane Tree",
+    "note": "Tree #31 - Healthy specimen of Plane Tree"
+  },
+  {
+    "lat": 52.562771,
+    "lon": 13.461342,
+    "species": "Spruce",
+    "note": "Tree #32 - Healthy specimen of Spruce"
+  },
+  {
+    "lat": 52.511142,
+    "lon": 13.495983,
+    "species": "Spruce",
+    "note": "Tree #33 - Healthy specimen of Spruce"
+  },
+  {
+    "lat": 52.593942,
+    "lon": 13.46058,
+    "species": "Cherry",
+    "note": "Tree #34 - Healthy specimen of Cherry"
+  },
+  {
+    "lat": 52.577091,
+    "lon": 13.497543,
+    "species": "Sycamore",
+    "note": "Tree #35 - Healthy specimen of Sycamore"
+  },
+  {
+    "lat": 52.572311,
+    "lon": 13.325264,
+    "species": "Oak",
+    "note": "Tree #36 - Healthy specimen of Oak"
+  },
+  {
+    "lat": 52.460859,
+    "lon": 13.428839,
+    "species": "Birch",
+    "note": "Tree #37 - Healthy specimen of Birch"
+  },
+  {
+    "lat": 52.525542,
+    "lon": 13.304793,
+    "species": "Birch",
+    "note": "Tree #38 - Healthy specimen of Birch"
+  },
+  {
+    "lat": 52.592356,
+    "lon": 13.316692,
+    "species": "Poplar",
+    "note": "Tree #39 - Healthy specimen of Poplar"
+  },
+  {
+    "lat": 52.544969,
+    "lon": 13.345924,
+    "species": "Linden",
+    "note": "Tree #40 - Healthy specimen of Linden"
+  },
+  {
+    "lat": 52.540486,
+    "lon": 13.427448,
+    "species": "Chestnut",
+    "note": "Tree #41 - Healthy specimen of Chestnut"
+  },
+  {
+    "lat": 52.558616,
+    "lon": 13.355703,
+    "species": "Linden",
+    "note": "Tree #42 - Healthy specimen of Linden"
+  },
+  {
+    "lat": 52.497538,
+    "lon": 13.541112,
+    "species": "Hazel",
+    "note": "Tree #43 - Healthy specimen of Hazel"
+  },
+  {
+    "lat": 52.543373,
+    "lon": 13.546782,
+    "species": "Ash",
+    "note": "Tree #44 - Healthy specimen of Ash"
+  },
+  {
+    "lat": 52.546069,
+    "lon": 13.25587,
+    "species": "Olive",
+    "note": "Tree #45 - Healthy specimen of Olive"
+  },
+  {
+    "lat": 52.46311,
+    "lon": 13.257931,
+    "species": "Plane Tree",
+    "note": "Tree #46 - Healthy specimen of Plane Tree"
+  },
+  {
+    "lat": 52.508585,
+    "lon": 13.405842,
+    "species": "Walnut",
+    "note": "Tree #47 - Healthy specimen of Walnut"
+  },
+  {
+    "lat": 52.484289,
+    "lon": 13.356333,
+    "species": "Beech",
+    "note": "Tree #48 - Healthy specimen of Beech"
+  },
+  {
+    "lat": 52.595644,
+    "lon": 13.384034,
+    "species": "Cherry",
+    "note": "Tree #49 - Healthy specimen of Cherry"
+  },
+  {
+    "lat": 52.544278,
+    "lon": 13.334848,
+    "species": "Walnut",
+    "note": "Tree #50 - Healthy specimen of Walnut"
+  }
+]

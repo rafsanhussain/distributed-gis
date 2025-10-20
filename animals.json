@@ -1,0 +1,302 @@
+[
+  {
+    "lat": 52.539015,
+    "lon": 13.523805,
+    "species": "Beaver",
+    "note": "Sighted near area #1 (Beaver)"
+  },
+  {
+    "lat": 52.465603,
+    "lon": 13.484372,
+    "species": "Crow",
+    "note": "Sighted near area #2 (Crow)"
+  },
+  {
+    "lat": 52.497795,
+    "lon": 13.26432,
+    "species": "Goose",
+    "note": "Sighted near area #3 (Goose)"
+  },
+  {
+    "lat": 52.508353,
+    "lon": 13.379203,
+    "species": "Crow",
+    "note": "Sighted near area #4 (Crow)"
+  },
+  {
+    "lat": 52.565188,
+    "lon": 13.396276,
+    "species": "Rabbit",
+    "note": "Sighted near area #5 (Rabbit)"
+  },
+  {
+    "lat": 52.565947,
+    "lon": 13.3946,
+    "species": "Magpie",
+    "note": "Sighted near area #6 (Magpie)"
+  },
+  {
+    "lat": 52.578537,
+    "lon": 13.28918,
+    "species": "Hedgehog",
+    "note": "Sighted near area #7 (Hedgehog)"
+  },
+  {
+    "lat": 52.515776,
+    "lon": 13.278182,
+    "species": "Deer",
+    "note": "Sighted near area #8 (Deer)"
+  },
+  {
+    "lat": 52.474533,
+    "lon": 13.502562,
+    "species": "Bat",
+    "note": "Sighted near area #9 (Bat)"
+  },
+  {
+    "lat": 52.505332,
+    "lon": 13.320182,
+    "species": "Marten",
+    "note": "Sighted near area #10 (Marten)"
+  },
+  {
+    "lat": 52.462701,
+    "lon": 13.480195,
+    "species": "Sparrow",
+    "note": "Sighted near area #11 (Sparrow)"
+  },
+  {
+    "lat": 52.525312,
+    "lon": 13.522221,
+    "species": "Woodpecker",
+    "note": "Sighted near area #12 (Woodpecker)"
+  },
+  {
+    "lat": 52.54465,
+    "lon": 13.325458,
+    "species": "Raccoon",
+    "note": "Sighted near area #13 (Raccoon)"
+  },
+  {
+    "lat": 52.556023,
+    "lon": 13.333507,
+    "species": "Seagull",
+    "note": "Sighted near area #14 (Seagull)"
+  },
+  {
+    "lat": 52.552034,
+    "lon": 13.359421,
+    "species": "Duck",
+    "note": "Sighted near area #15 (Duck)"
+  },
+  {
+    "lat": 52.580166,
+    "lon": 13.300447,
+    "species": "Moorhen",
+    "note": "Sighted near area #16 (Moorhen)"
+  },
+  {
+    "lat": 52.464445,
+    "lon": 13.422232,
+    "species": "Falcon",
+    "note": "Sighted near area #17 (Falcon)"
+  },
+  {
+    "lat": 52.474899,
+    "lon": 13.426205,
+    "species": "Heron",
+    "note": "Sighted near area #18 (Heron)"
+  },
+  {
+    "lat": 52.54826,
+    "lon": 13.42902,
+    "species": "Rooster",
+    "note": "Sighted near area #19 (Rooster)"
+  },
+  {
+    "lat": 52.501214,
+    "lon": 13.316992,
+    "species": "Falcon",
+    "note": "Sighted near area #20 (Falcon)"
+  },
+  {
+    "lat": 52.478012,
+    "lon": 13.25807,
+    "species": "Heron",
+    "note": "Sighted near area #21 (Heron)"
+  },
+  {
+    "lat": 52.505378,
+    "lon": 13.281135,
+    "species": "Hawk",
+    "note": "Sighted near area #22 (Hawk)"
+  },
+  {
+    "lat": 52.51962,
+    "lon": 13.311179,
+    "species": "Sparrow",
+    "note": "Sighted near area #23 (Sparrow)"
+  },
+  {
+    "lat": 52.515331,
+    "lon": 13.530567,
+    "species": "Wild Boar",
+    "note": "Sighted near area #24 (Wild Boar)"
+  },
+  {
+    "lat": 52.479074,
+    "lon": 13.294807,
+    "species": "Beaver",
+    "note": "Sighted near area #25 (Beaver)"
+  },
+  {
+    "lat": 52.465911,
+    "lon": 13.492381,
+    "species": "Woodpecker",
+    "note": "Sighted near area #26 (Woodpecker)"
+  },
+  {
+    "lat": 52.570997,
+    "lon": 13.320152,
+    "species": "Magpie",
+    "note": "Sighted near area #27 (Magpie)"
+  },
+  {
+    "lat": 52.563511,
+    "lon": 13.412055,
+    "species": "Seagull",
+    "note": "Sighted near area #28 (Seagull)"
+  },
+  {
+    "lat": 52.475503,
+    "lon": 13.530072,
+    "species": "Crow",
+    "note": "Sighted near area #29 (Crow)"
+  },
+  {
+    "lat": 52.477265,
+    "lon": 13.330983,
+    "species": "Woodpecker",
+    "note": "Sighted near area #30 (Woodpecker)"
+  },
+  {
+    "lat": 52.466825,
+    "lon": 13.536596,
+    "species": "Hedgehog",
+    "note": "Sighted near area #31 (Hedgehog)"
+  },
+  {
+    "lat": 52.515491,
+    "lon": 13.51741,
+    "species": "Deer",
+    "note": "Sighted near area #32 (Deer)"
+  },
+  {
+    "lat": 52.522785,
+    "lon": 13.276375,
+    "species": "Heron",
+    "note": "Sighted near area #33 (Heron)"
+  },
+  {
+    "lat": 52.580396,
+    "lon": 13.260609,
+    "species": "Badger",
+    "note": "Sighted near area #34 (Badger)"
+  },
+  {
+    "lat": 52.556627,
+    "lon": 13.38346,
+    "species": "Rabbit",
+    "note": "Sighted near area #35 (Rabbit)"
+  },
+  {
+    "lat": 52.565357,
+    "lon": 13.432954,
+    "species": "Fox",
+    "note": "Sighted near area #36 (Fox)"
+  },
+  {
+    "lat": 52.559632,
+    "lon": 13.461772,
+    "species": "Deer",
+    "note": "Sighted near area #37 (Deer)"
+  },
+  {
+    "lat": 52.518566,
+    "lon": 13.457169,
+    "species": "Magpie",
+    "note": "Sighted near area #38 (Magpie)"
+  },
+  {
+    "lat": 52.52363,
+    "lon": 13.510846,
+    "species": "Raccoon",
+    "note": "Sighted near area #39 (Raccoon)"
+  },
+  {
+    "lat": 52.532284,
+    "lon": 13.398088,
+    "species": "Beaver",
+    "note": "Sighted near area #40 (Beaver)"
+  },
+  {
+    "lat": 52.481407,
+    "lon": 13.544431,
+    "species": "Sparrow",
+    "note": "Sighted near area #41 (Sparrow)"
+  },
+  {
+    "lat": 52.590538,
+    "lon": 13.362258,
+    "species": "Seagull",
+    "note": "Sighted near area #42 (Seagull)"
+  },
+  {
+    "lat": 52.480699,
+    "lon": 13.34837,
+    "species": "Seagull",
+    "note": "Sighted near area #43 (Seagull)"
+  },
+  {
+    "lat": 52.542135,
+    "lon": 13.270788,
+    "species": "Marten",
+    "note": "Sighted near area #44 (Marten)"
+  },
+  {
+    "lat": 52.571405,
+    "lon": 13.425566,
+    "species": "Sparrow",
+    "note": "Sighted near area #45 (Sparrow)"
+  },
+  {
+    "lat": 52.515374,
+    "lon": 13.416952,
+    "species": "Badger",
+    "note": "Sighted near area #46 (Badger)"
+  },
+  {
+    "lat": 52.55749,
+    "lon": 13.511983,
+    "species": "Hedgehog",
+    "note": "Sighted near area #47 (Hedgehog)"
+  },
+  {
+    "lat": 52.484601,
+    "lon": 13.361399,
+    "species": "Moorhen",
+    "note": "Sighted near area #48 (Moorhen)"
+  },
+  {
+    "lat": 52.547984,
+    "lon": 13.472153,
+    "species": "Marten",
+    "note": "Sighted near area #49 (Marten)"
+  },
+  {
+    "lat": 52.489047,
+    "lon": 13.311383,
+    "species": "Rabbit",
+    "note": "Sighted near area #50 (Rabbit)"
+  }
+]

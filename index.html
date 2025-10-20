@@ -1,0 +1,89 @@
+<!--------- Distributed GIS Project --------->
+<!--------- Project On Weather Explore, Animal Sighting and Tree Mapping --------->
+<!--------- Submitted By: Hussain, Md Rafsan; Matriculation ID: 0461710 --------->
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>EcoMap Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+<body>
+  <header>
+    <h1>EcoMap Explorer</h1>
+    <p>Get real‑time air quality data | Record an animal sighting | Mapping a new tree and its geolocation.</p>
+  </header>
+
+
+<!--------- Map Container --------->
+<div id="map-container">
+  <div id="controls">
+    <input id="address" placeholder="Enter Place or Geolocation" />
+    <button id="geocodeBtn">Find Place</button>
+    <button id="useLocationBtn">Current Location</button>
+    <div id="status"></div>
+  </div>
+  <div id="map"></div>
+</div>
+
+
+<aside id="panel">
+  <!--------- Weather Conditions --------->
+  <h2>Current Weather Conditions</h2>
+  <div id="locationName">No location selected</div>
+  <div id="dataCards">
+    <div class="card"><h3>Temperature</h3><div id="temp">—</div></div>
+    <div class="card"><h3>Humidity</h3><div id="humidity">—</div></div>
+    <div class="card"><h3>Precipitation</h3><div id="precip">—</div></div>
+    <div class="card"><h3>Wind Speed</h3><div id="wind">—</div></div>
+    <div class="card"><h3>UV Index</h3><div id="uv">—</div></div>
+    <div class="card"><h3>Sunrise/Sunset</h3><div id="sun">—</div></div>
+    <div class="card"><h3>Air Quality Index</h3><div id="aq">—</div></div>
+  </div>
+
+
+  <!--------- Animal & Tree Entry Form --------->
+  <div id="entryForm">
+    <h2>Add New Entry</h2>
+
+    <label for="entryType">Entry Type:</label>
+    <select id="entryType">
+      <option value="animal">Animal Sighting</option>
+      <option value="tree">Tree Mapping</option>
+    </select>
+
+    <label for="speciesInput">Species:</label>
+    <input id="speciesInput" type="text" placeholder="e.g., Red Fox, Oak Tree" /> 
+
+    <label for="noteInput">Notes:</label>
+    <textarea id="noteInput" rows="2" placeholder="Optional note (time, specifications etc.)"></textarea>
+
+    <div class="coord-inputs">
+      <label for="latInput">Latitude:</label>
+      <input id="latInput" type="text" readonly />
+      <label for="lonInput">Longitude:</label>
+      <input id="lonInput" type="text" readonly />
+    </div>
+
+      <button id="addBtn">Add Your New Entry</button>
+      <div id="addStatus"></div>
+  </div>
+</aside>   
+
+
+<!--------- Footer --------->
+<footer>
+  <p>Distributed GIS Project 2025 | Data Sources: Open-Meteo, OpenAQ, and OpenStreetMap</p>
+  <p>Md Rafsan Hussain (0461710) | Tarakul Hoque Md Rifat (0492554)</p>
+</footer>
+
+
+<!--------- Javascript --------->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
